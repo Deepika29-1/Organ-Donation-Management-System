@@ -3,7 +3,7 @@ Organ Donation Management System
 
 Steps to execute the project:
 Step 1. Making the database
-Import create_tables.sql to create the database
+        Import create_tables.sql to create the database
 Step 2. Make sure to change the password in main.py to your MySQL password.
 Step 3. Run main.py.
 Step 4. Go to localhost:/5000 on browser.
